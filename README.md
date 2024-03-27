@@ -1,6 +1,7 @@
 # yuetingmusic 悦听音乐
 
 ## 一款优美的Android音乐播放App, 使用 Material you (Material 3) 设计
+## 原仓库地址 [https://github.com/wilinz/yuetingmusic](https://github.com/wilinz/yuetingmusic)
 ## 下载地址：[https://github.com/wilinz/yuetingmusic/releases](https://github.com/wilinz/yuetingmusic/releases)
 
 ### 特点
@@ -30,3 +31,6 @@ Material you UI，支持耳机线控，通知栏播放效果炫酷（使用官�
 - UI效果图如下：
 
 <img src="image/3.jpg" width="325px" /><img src="image/1.jpg" width="325px" /><img src="image/4.jpg" width="325px" /><img src="image/5.jpg" width="325px" /><img src="image/2.jpg" width="325px" /><img src="image/7.jpg" width="325px" /><img src="image/8.jpg" width="325px" /><img src="image/9.jpg" width="325px" /><img src="image/6.jpg" width="325px" /><img src="image/11.jpg" width="325px" />
+
+# 许可证
+使用此仓库您需要遵守 MIT 许可证
